@@ -1,5 +1,5 @@
 import Drive from "../assets/Drive.png";
-import Cyber from "../assets/Cyber.png";
+import Cyber from "../assets/cyber.png";
 import Caution from "../assets/Caution.png";
 import Mobile from "../assets/Mobile.png";
 import Phising from "../assets/Phising.png";
